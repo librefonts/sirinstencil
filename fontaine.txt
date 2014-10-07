@@ -1,0 +1,76 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: SirinStencil
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: cyreal.org
+    Designer: Olga Karpushina (okarpush@gmail.com)
+    Designer url: cyreal.org
+    Glyph count: 225
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: SirinStencil
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: cyreal.org
+    Designer: Olga Karpushina (okarpush@gmail.com)
+    Designer url: cyreal.org
+    Glyph count: 224
+    Character count: 213
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
